@@ -4,3 +4,4 @@ cherries
 dragon fruitsdragon fruits
 figs # add another line to fruits.txt
 figs
+Elderberries
